@@ -2,3 +2,4 @@ django
 djangorestframework
 flake8
 psycopg2
+pillow
